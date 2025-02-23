@@ -15,3 +15,12 @@ Ensure you have Python installed (>= 3.x).
    ```sh
    git clone https://github.com/zenix20/Qr-Code-Generator.git
    cd Qr-Code-Generator
+
+2. Install Dependencies:
+   ```sh
+   pip install -r requirements.txt
+
+3. Run the script:
+   ```sh
+   python QRcode.py
+
